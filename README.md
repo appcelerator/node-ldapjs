@@ -1,5 +1,7 @@
 # LDAPjs
 
+> This is a no code fork to bring in changes necessary by Appcelerator.
+
 [!['Build status'][travis_image_url]][travis_page_url]
 
 [travis_image_url]: https://api.travis-ci.org/mcavage/node-ldapjs.svg
